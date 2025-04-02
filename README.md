@@ -1,1 +1,1 @@
-# Game-Project
+"Hello, I am new to programming and GitHub, and this is my first repository. I have developed a game, and I recommend reading the instructions first to understand how it works. I look forward to learning, growing, and collaborating with others in this journey. — Redip Biswas"
